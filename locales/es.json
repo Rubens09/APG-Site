@@ -1,0 +1,137 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "about": "Sobre Nosotros",
+    "services": "Servicios",
+    "ports": "Puertos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "CONECTANDO CON",
+    "world": "EL MUNDO",
+    "description1": "En <b>ASIA PACIFIC GROUP</b> transformamos la logística en una ventaja competitiva. Somos especialistas en comercio exterior, aduanas y legislación internacional, ofreciendo soluciones inteligentes y personalizadas para cada eslabón de la cadena de suministro.",
+    "description2": "Más que un socio logístico, somos su aliado estratégico para conectar su empresa con el mundo, asegurando que cada movimiento de su mercancía se traduzca en crecimiento, confianza y éxito global.",
+    "servicesButton": "Conocer Servicios",
+    "contactButton": "Contactar Ahora"
+  },
+  "benefits": {
+    "title": "¿Por qué elegirnos?",
+    "description": "Nos distinguimos por nuestro profesionalismo, disciplina y compromiso absoluto con la excelencia, combinando conocimiento técnico, innovación y estrategia legal para que cada operación fluya sin contratiempos.",
+    "experience": "Experiencia",
+    "experienceText": "Más de 10 Años de experiencia, personal capacitado, honesto y con integridad probada.",
+    "integration": "Integración",
+    "integrationText": "De tecnología en todos nuestros procesos, continua actualización de equipo para estar a la vanguardia.",
+    "presence": "Presencia",
+    "presenceText": "En México y sus principales puerto, Aduanas y ciudades industriales Asia, china continental, Estados Unidos, Canada, Italia, Francia, Unión Europea, Brasil y Colombia.",
+    "solutions": "Soluciones",
+    "solutionsText": "A la medida para cada cliente, plan de negocios acuerdo a sus necesidades especificas.",
+    "security": "Seguridad",
+    "securityText": "Garantía de ofrecer la seguridad aduanera, administrativa y fiscal en sus operaciones.",
+    "innovation": "Innovación",
+    "innovationText": "Constante al ser una extensión importante del cliente en sus procesos de producción."
+  },
+  "about": {
+    "title": "Sobre",
+    "us": "Nosotros",
+    "subtitle": "Soluciones integrales de comercio exterior adaptadas a las necesidades de tu empresa",
+    "mission": "Nuestra Misión",
+    "missionText": "Ser líderes en nuestro ramo proporcionando un servicio rápido, eficaz, confiable y oportuno, ofreciendo soluciones logísticas, innovadoras, seguras e integradas a nuestros clientes; preparando a nuestros empleados constantemente y creando un clima de estabilidad y satisfacción laboral.",
+    "vision": "Nuestra Visión",
+    "visionText": "Distinguirnos por ser una empresa seria, responsable, con el mejor servicio y a la vanguardia, obteniendo como resultado la calidad en todo lo que hacemos. Ser aliado estratégico en soluciones integrales que apoyen e impulsen los servicios de nuestros clientes.",
+    "values": "Nuestros Valores",
+    "valuesText": "Integridad, responsabilidad, honestidad, compromiso, servicio, proactividad, innovación, cooperación, auto crítica.",
+    "specializations": "Sectores en que nos especializamos",
+    "specializationsList": [
+      "Manufacturas y maquinaria",
+      "Tecnología y promocionales",
+      "Metrología y pesaje",
+      "Luminaria y electrónica",
+      "Commodities y perecederos"
+    ]
+  },
+  "services": {
+    "title": "Nuestros",
+    "services": "Servicios",
+    "subtitle": "Soluciones integrales de comercio exterior adaptadas a las necesidades de tu empresa",
+    "customsClearance": {
+      "title": "Despacho Aduanal",
+      "description": "Nos encargamos de todo el proceso y formalidad que tu mercancía necesita cumplir ante la autoridad aduanal para importar o exportar."
+    },
+    "transport": {
+      "title": "Transporte LTL & FTL",
+      "description": "Sabemos lo importante que es tu mercancía para ti, por eso en APG cuidamos cada detalle de tu cargamento, asegurándonos de que llegue en perfecto estado y justo a tiempo."
+    },
+    "packageRelease": {
+      "title": "Liberación Paquetería Retenida",
+      "description": "Conocemos las dificultades al importar desde cualquier parte del mundo, por lo que APG te brinda opciones efectivas para liberar tu paquetería retenida."
+    },
+    "importExpress": {
+      "title": "Import Express Duty Free",
+      "description": "Elimina los riesgos en tus inversiones; deja que nuestra experiencia se encargue de las gestiones aduanales y de transportación para tu negocio de e-commerce."
+    },
+    "importZero": {
+      "title": "Import Zero by CBM",
+      "description": "Envía tu mercancía a nuestros almacenes en Guangzhou o Dongguang y nosotros nos encargamos de todo el proceso hasta entregarte en nuestros CEDIS."
+    },
+    "weBuy": {
+      "title": "We - Buy",
+      "description": "Nos encargamos de la compra y gestión logística de tus productos en Asia, asegurando calidad, precio y tiempos de entrega óptimos."
+    },
+    "trading": {
+      "title": "Comercializadora",
+      "description": "Servicio de importación para personas morales y físicas desde cualquier parte del mundo, sin necesidad de contar con padrón de importadores."
+    },
+    "customsProcedures": {
+      "title": "Trámites Aduanales",
+      "description": "Realizamos un análisis profundo de las necesidades de tu empresa para ofrecer soporte personalizado y cumplir con la normatividad aplicable."
+    },
+    "cargoInsurance": {
+      "title": "Seguro de Mercancías",
+      "description": "Ofrecemos soluciones que garanticen que tu carga llegue segura a su destino, con tecnología y medidas de prevención de riesgos."
+    },
+    "expressParcel": {
+      "title": "Paquetería Express",
+      "description": "Paquetería y mensajería nacional e internacional con tarifas competitivas y sistema de rastreo en tiempo real."
+    },
+    "audits": {
+      "title": "Auditorías y Previos en Origen",
+      "description": "Verificamos que tus proveedores cumplan con los estándares de calidad, asegurando que tus productos sean los correctos y estén listos para importación."
+    },
+    "learnMore": "Conocer más",
+    "close": "Cerrar"
+  },
+  "clients": {
+    "title": "Nuestros",
+    "clients": "Clientes",
+    "subtitle": "Empresas que confían en nuestras soluciones logísticas"
+  },
+  "ports": {
+    "title": "Puertos",
+    "authorized": "Autorizados",
+    "subtitle": "Aduanas donde tenemos presencia",
+    "coverage": "Cobertura Nacional Completa • República Mexicana",
+    "maritime": "Marítimo",
+    "air": "Aéreo",
+    "land": "Terrestre"
+  },
+  "contact": {
+    "title": "¿Listo para Simplificar tus Operaciones?",
+    "description": "Contáctanos hoy y descubre cómo podemos optimizar tus procesos aduanales con eficiencia y profesionalismo",
+    "email": "Enviar Correo",
+    "call": "Llamar Ahora"
+  },
+  "footer": {
+    "description": "Tu socio confiable en comercio exterior y gestión aduanal.",
+    "quickLinks": "Enlaces Rápidos",
+    "contact": "Contacto",
+    "rights": "Todos los derechos reservados.",
+    "poweredBy": "Powered by",
+    "enrubyx": "Enrubyx"
+  },
+  "whatsapp": {
+    "title": "Enviar WhatsApp",
+    "placeholder": "Escribe tu mensaje...",
+    "sendButton": "Enviar",
+    "tooltip": "Chatea con nosotros"
+  }
+}

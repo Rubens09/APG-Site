@@ -1,0 +1,137 @@
+{
+  "navigation": {
+    "home": "首页",
+    "about": "关于我们",
+    "services": "服务",
+    "ports": "港口",
+    "contact": "联系我们"
+  },
+  "hero": {
+    "title": "连接",
+    "world": "世界",
+    "description1": "在<b>亚太集团</b>，我们将物流转化为竞争优势。我们是外贸、海关和国际立法方面的专家，为供应链的每个环节提供智能和定制化的解决方案。",
+    "description2": "不仅仅是物流合作伙伴，我们是您连接公司与世界的战略盟友，确保您的每一次货物运输都转化为增长、信任和全球成功。",
+    "servicesButton": "了解服务",
+    "contactButton": "立即联系"
+  },
+  "benefits": {
+    "title": "为什么选择我们？",
+    "description": "我们以专业性、纪律性和对卓越的绝对承诺而脱颖而出，结合技术知识、创新和法律策略，确保每个操作顺利进行。",
+    "experience": "经验",
+    "experienceText": "超过10年经验，训练有素的员工，诚实且具有经证明的诚信。",
+    "integration": "整合",
+    "integrationText": "在所有流程中应用技术，持续更新设备以保持领先地位。",
+    "presence": "业务覆盖",
+    "presenceText": "在墨西哥及其主要港口、海关和工业城市，以及亚洲、中国大陆、美国、加拿大、意大利、法国、欧盟、巴西和哥伦比亚都有业务。",
+    "solutions": "解决方案",
+    "solutionsText": "为每个客户量身定制，根据具体需求制定商业计划。",
+    "security": "安全保障",
+    "securityText": "保证您业务的海关、行政和财务安全。",
+    "innovation": "创新",
+    "innovationText": "作为客户生产流程的重要延伸，持续创新。"
+  },
+  "about": {
+    "title": "关于",
+    "us": "我们",
+    "subtitle": "根据贵公司需求量身定制的全面外贸解决方案",
+    "mission": "我们的使命",
+    "missionText": "通过提供快速、有效、可靠和及时的服务，在我们的领域成为领导者，为客户提供创新、安全和集成的物流解决方案；不断培训我们的员工，创造稳定和满意的工作环境。",
+    "vision": "我们的愿景",
+    "visionText": "以成为严肃、负责任、提供最佳服务并处于前沿地位的公司而著称，从而在我们所做的一切中体现质量。成为支持并推动客户服务的全面解决方案的战略盟友。",
+    "values": "我们的价值观",
+    "valuesText": "诚信、责任、诚实、承诺、服务、积极主动、创新、合作、自我批评。",
+    "specializations": "专业领域",
+    "specializationsList": [
+      "制造业和机械",
+      "技术和促销品",
+      "计量和称重",
+      "照明和电子产品",
+      "大宗商品和易腐品"
+    ]
+  },
+  "services": {
+    "title": "我们的",
+    "services": "服务",
+    "subtitle": "根据贵公司需求量身定制的全面外贸解决方案",
+    "customsClearance": {
+      "title": "海关清关",
+      "description": "我们处理您的货物进出口所需的所有流程和海关手续。"
+    },
+    "transport": {
+      "title": "零担和整车运输",
+      "description": "我们知道您的货物对您有多重要，因此在APG，我们照顾您货物的每一个细节，确保其完好无损并准时到达。"
+    },
+    "packageRelease": {
+      "title": "扣留包裹释放",
+      "description": "我们了解从世界各地进口的困难，因此APG为您提供有效选项来释放被扣留的包裹。"
+    },
+    "importExpress": {
+      "title": "免税快递进口",
+      "description": "消除您投资中的风险；让我们的经验为您处理电子商务业务的海关程序和运输。"
+    },
+    "importZero": {
+      "title": "CBM零进口",
+      "description": "将您的货物发送到我们在广州或东莞的仓库，我们将处理整个过程，直到交付到我们的配送中心。"
+    },
+    "weBuy": {
+      "title": "代购服务",
+      "description": "我们处理您在亚洲产品的采购和物流管理，确保质量、价格和最佳交货时间。"
+    },
+    "trading": {
+      "title": "贸易公司",
+      "description": "为来自世界各地的法人和个人提供进口服务，无需拥有进口商资质。"
+    },
+    "customsProcedures": {
+      "title": "海关手续",
+      "description": "我们对贵公司的需求进行彻底分析，提供个性化支持并遵守适用法规。"
+    },
+    "cargoInsurance": {
+      "title": "货物保险",
+      "description": "我们提供解决方案，确保您的货物安全到达目的地，采用技术和风险预防措施。"
+    },
+    "expressParcel": {
+      "title": "快递包裹",
+      "description": "国内和国际包裹及快递服务，具有竞争力的价格和实时跟踪系统。"
+    },
+    "audits": {
+      "title": "产地审计和预检",
+      "description": "我们验证您的供应商是否符合质量标准，确保您的产品正确并准备好进口。"
+    },
+    "learnMore": "了解更多",
+    "close": "关闭"
+  },
+  "clients": {
+    "title": "我们的",
+    "clients": "客户",
+    "subtitle": "信任我们物流解决方案的公司"
+  },
+  "ports": {
+    "title": "港口",
+    "authorized": "授权",
+    "subtitle": "我们有业务的海关",
+    "coverage": "全国全面覆盖 • 墨西哥共和国",
+    "maritime": "海运",
+    "air": "空运",
+    "land": "陆运"
+  },
+  "contact": {
+    "title": "准备好简化您的业务了吗？",
+    "description": "立即联系我们，了解我们如何以效率和专业性优化您的海关流程",
+    "email": "发送邮件",
+    "call": "立即致电"
+  },
+  "footer": {
+    "description": "您在外贸和海关管理方面可靠的合作伙伴。",
+    "quickLinks": "快速链接",
+    "contact": "联系我们",
+    "rights": "保留所有权利。",
+    "poweredBy": "技术支持",
+    "enrubyx": "Enrubyx"
+  },
+  "whatsapp": {
+    "title": "发送 WhatsApp",
+    "placeholder": "写下您的消息...",
+    "sendButton": "发送",
+    "tooltip": "与我们聊天"
+  }
+}
